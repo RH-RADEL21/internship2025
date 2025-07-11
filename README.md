@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 28px;"> Project Installation Guide</span></strong>
+  <strong><span style="font-size:32px;"> Project Installation Guide</span></strong>
 </p>
 
 
