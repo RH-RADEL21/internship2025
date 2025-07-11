@@ -1,7 +1,4 @@
-<p align="center">
-  <strong><span style="font-size:32px;"> Project Installation Guide</span></strong>
-</p>
-
+<h1 align="center">🚀 <strong>Project Installation Guide</strong></h1>
 
 <p align="center">
   <a href="https://syedktahseen.github.io/internlive/">
