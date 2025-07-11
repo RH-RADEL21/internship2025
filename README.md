@@ -1,6 +1,13 @@
-# 🚀 Project Installation Guide
+<p align="center">
+  <strong><span style="font-size: 28px;"> Project Installation Guide</span></strong>
+</p>
 
-[![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge)](https://syedktahseen.github.io/internlive/)
+
+<p align="center">
+  <a href="https://syedktahseen.github.io/internlive/">
+    <img src="https://img.shields.io/badge/View%20Project-Click%20Here-blue?style=for-the-badge" alt="View Project Badge">
+  </a>
+</p>
 
 > This project sets up **React**, **Vite**, and **Tailwind CSS** in the `frontend` folder.
 
@@ -8,7 +15,7 @@
 
 ## 🛠️ Installation Steps
 
-### 1. 🔽 Navigate to the frontend folder:
+### 1.  Navigate to the frontend folder:
 ```bash
 cd frontend
 ````
@@ -25,7 +32,7 @@ npm create vite@latest . -- --template react
 npm install
 ```
 
-### 4. 🌈 Install Tailwind CSS and essential plugins:
+### 4.  Install Tailwind CSS and essential plugins:
 
 Install the following packages:
 
@@ -60,16 +67,14 @@ export default defineConfig({
 
 ---
 
-## 🎨 Tailwind Setup
+##  Tailwind Setup
 
 ### 6. 📄 Add Tailwind CSS imports to styles:
 
 Edit `src/index.css` or `src/App.css`:
 
 ```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 ```
 
 ---
@@ -86,7 +91,7 @@ npm run dev
 
 ---
 
-## 🧪 Sample Tailwind Usage
+##  Sample Tailwind Usage
 
 ### 8. 📥 Import styles in `src/main.jsx`:
 
@@ -94,7 +99,7 @@ npm run dev
 import './index.css';
 ```
 
-### 9. 💡 Example JSX usage:
+### 9.  Example JSX usage:
 
 ```jsx
 function App() {
